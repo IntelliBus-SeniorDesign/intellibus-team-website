@@ -1,0 +1,26 @@
+{
+  "name": "intellibus-team-website",
+  "version": "1.0.0",
+  "description": "The deliverable website for senior design.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel serve index.html --port 1234",
+    "build": "parcel build --public-url . index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IntelliBus-SeniorDesign/intellibus-team-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IntelliBus-SeniorDesign/intellibus-team-website/issues"
+  },
+  "homepage": "https://github.com/IntelliBus-SeniorDesign/intellibus-team-website#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "parcel": "^2.0.0",
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.19"
+  }
+}
