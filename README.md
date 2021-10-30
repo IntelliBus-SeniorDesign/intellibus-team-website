@@ -1,5 +1,6 @@
 # intellibus-team-website
 The deliverable website for senior design.
+[Access here](https://eceseniordesign2021fall.ece.gatech.edu/sd21f47/)
 
 Example:
 
